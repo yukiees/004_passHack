@@ -81,10 +81,10 @@
                     </view>
                     <connections>
                         <outlet property="countLabel" destination="LB8-hn-e1w" id="Vng-S9-jBl"/>
-                        <outlet property="resultLabel1" destination="YpP-n7-muk" id="KCM-n5-Ke8"/>
-                        <outlet property="resultLabel2" destination="ihO-pU-CRq" id="OuF-CJ-SOq"/>
-                        <outlet property="resultLabel3" destination="SIk-tC-E2Y" id="8M0-2N-Fs6"/>
-                        <outlet property="resultLabel4" destination="QVg-zg-p6X" id="lYY-fW-opA"/>
+                        <outlet property="resultLabel1" destination="QVg-zg-p6X" id="ueg-dP-Sbb"/>
+                        <outlet property="resultLabel2" destination="SIk-tC-E2Y" id="GKH-jO-wVd"/>
+                        <outlet property="resultLabel3" destination="ihO-pU-CRq" id="U3z-Ky-aRM"/>
+                        <outlet property="resultLabel4" destination="YpP-n7-muk" id="WA8-sX-r2I"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
